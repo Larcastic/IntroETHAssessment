@@ -5,6 +5,7 @@ My creation of 'Quanta', a token made with Solidity.
 In this assessment we were tasked to create a Token using Solidity via Remix IDE.
 
 # Code Details
+*for the purpose of ease, the code was set to public.*
 - In order to create Quanta, we first have to declare it as a variable which contains its name, name abbreviation and token amount:
 
       string public tokenName = "QUANTA";
