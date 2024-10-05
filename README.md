@@ -1,10 +1,10 @@
-#My entry for the IntroETH Assessment in Metacrafters
+# My entry for the IntroETH Assessment in Metacrafters
 My creation of 'Quanta', a token made with Solidity.
 
-#Description
+# Description
 In this assessment we were tasked to create a Token using Solidity via Remix IDE.
 
-#Code Details
+# Code Details
 - In order to create Quanta, we first have to declare it as a variable which contains its name, name abbreviation and token amount:
 
       string public tokenName = "QUANTA";
@@ -31,6 +31,6 @@ In this assessment we were tasked to create a Token using Solidity via Remix IDE
           }
       }
 
-#Author
+# Author
 Lars James Manansala
 larsjamesmanansala@gmail.com
