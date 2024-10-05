@@ -32,5 +32,4 @@ In this assessment we were tasked to create a Token using Solidity via Remix IDE
       }
 
 # Author
-Lars James Manansala
-larsjamesmanansala@gmail.com
+Lars James Manansala (larsjamesmanansala@gmail.com)
